@@ -7,4 +7,3 @@ This application aims to be a Multiplayer Augmented Reality Framework that allow
 The specification of this project is still under development which may result in changes.
 
 Demo released expected : 25/26 December 2021
-  
