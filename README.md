@@ -8,7 +8,7 @@ The specification of this project is still under development which may result in
 
 Demo video below:
 
-[![IMAGE ALT TEXT HERE](https://img.youtu.be/uCfmD6quPdU)](https://youtu.be/uCfmD6quPdU)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/watch?v=uCfmD6quPdU)](https://www.youtube.com/watch?v=uCfmD6quPdU)
 
 
 Demo video below:
