@@ -11,7 +11,7 @@ Demo video below:
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uCfmD6quPdU/0.jpg)](https://www.youtube.com/watch?v=uCfmD6quPdU)
 
 
-Demo video below:
+Explanation video below:
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/QifMu56YGks/0.jpg)](https://youtu.be/QifMu56YGks)
 
